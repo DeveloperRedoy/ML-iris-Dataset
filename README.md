@@ -91,3 +91,14 @@ Make sure you have the following prerequisites installed:
 
 <hr>
 
+# Contact Me: 
+
+| Social accounts | Link                                               |
+|-----------------|----------------------------------------------------|
+| Twitter         | https://twitter.com/FreelancerRedoy                |
+| Linkedin        | https://www.linkedin.com/in/redoytime/             |
+| Facebook        | https://www.facebook.com/redoy.sarder.714          |
+| Kaggle          | https://www.kaggle.com/mdredoysarder               |
+| Profile         | https://www.hackerrank.com/profile/syber_redoy_php |
+| Github          | https://github.com/Redoy365                        |
+
