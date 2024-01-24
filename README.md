@@ -1,3 +1,7 @@
+## My Skills : 
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF00FF&random=false&width=435&lines=I+am+a+Python+Developer;I+am+a+Software+Developer;I+am+a+ML-Engineer;I+am+a+problem+solver">
+
 # Iris Dataset Machine Learning Project
 
 ![Titanic](https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification.png)
